@@ -1,0 +1,1 @@
+let num = parseFloat(prompt=()
